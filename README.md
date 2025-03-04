@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas Coutinho and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Lucas Coutinho and I'm a Desenvolvedor Web/Front-End, from Rio Pomba MG</h2>
 
 ###
 
